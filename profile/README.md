@@ -37,5 +37,6 @@ Read the draft, run the vectors, file issues. Security reports:
 security@swornmail.dev (see SECURITY.md). Contributions under Apache-2.0
 with DCO sign-off.
 
-Maintained by PlatOps. Protocol governance is intended to move to an open
-standards process as adoption warrants.
+Maintained by [PlatOps Security, LLC](https://platops.com). Protocol
+governance is intended to move to an open standards process as adoption
+warrants.
